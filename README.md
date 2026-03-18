@@ -1,21 +1,23 @@
 # 🚀 Atishay Jain
 
-### Senior Frontend Developer | MERN Stack | React Performance Enthusiast
+### Senior Software Engineer | Full Stack (React.js + FastAPI) | System Design | Scalable Applications
 
-I build **scalable, high-performance web applications** using modern JavaScript ecosystems.  
-Passionate about clean architecture, performance optimization, and solving complex problems through code.
+I build **scalable, high-performance full-stack applications** using modern JavaScript and Python ecosystems.  
+Focused on **system design, backend APIs, and performance optimization** for platforms serving **100K–1M+ users**.
+
 
 ## 🧠 About Me
 
-- 🔭 Currently building scalable apps using React, TypeScript & MERN
-- 📚 Actively solving DSA problems on LeetCode
-- 🤝 Open to collaborating on Full-Stack MERN & Open Source projects
-- 🚀 Exploring AI/ML fundamentals & Java backend systems
-- 🧩 I treat debugging like solving puzzles — and I genuinely enjoy it
+- 🔭 Building scalable apps using **React.js, Next.js, FastAPI & MongoDB**
+- ⚡ Experienced in **designing REST APIs & backend systems**
+- 📚 Actively solving **DSA (LeetCode)** & improving problem-solving skills
+- 🧩 Strong focus on **performance optimization & system design**
+- 🤝 Open to **Full Stack / Backend / System Design roles**
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aj-atishay) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jainAtish)
 
 ## 🛠 Tech Stack
 
@@ -43,8 +45,15 @@ Passionate about clean architecture, performance optimization, and solving compl
 ---
 
 ### 🧠 Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+
+---
+
+### 🧠 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -68,8 +77,6 @@ Passionate about clean architecture, performance optimization, and solving compl
 ---
 
 ### 📦 Other
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
