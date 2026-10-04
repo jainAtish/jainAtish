@@ -1,14 +1,15 @@
 # 🚀 Atishay Jain
 
-### Senior Software Engineer | Full Stack (React.js + FastAPI) | System Design | Scalable Applications
+### Senior Software Engineer | Full Stack + AI | System Design | Scalable Applications
 
 I build **scalable, high-performance full-stack applications** using modern JavaScript and Python ecosystems.  
-Focused on **system design, backend APIs, and performance optimization** for platforms serving **100K–1M+ users**.
+Focused on **system design, backend APIs, AI integration and performance optimization** for platforms serving **100K–1M+ users**.
 
 
 ## 🧠 About Me
 
 - 🔭 Building scalable apps using **React.js, Next.js, FastAPI & MongoDB**
+- 🤖 Building and experimenting with AI-powered applications using LLMs, Gemini APIs, RAG & AI agents
 - ⚡ Experienced in **designing REST APIs & backend systems**
 - 📚 Actively solving **DSA (LeetCode)** & improving problem-solving skills
 - 🧩 Strong focus on **performance optimization & system design**
@@ -20,6 +21,20 @@ Focused on **system design, backend APIs, and performance optimization** for pla
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jainAtish)
 
 ## 🛠 Tech Stack
+
+### 🤖 AI & Generative AI
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Jev](https://img.shields.io/badge/Jev-System%20One%20Model-5B5BD6?style=for-the-badge)
+![Laya](https://img.shields.io/badge/Laya-System%20One%20Model-2563EB?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6C63FF?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-7B61FF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20Workflows-009688?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
